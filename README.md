@@ -35,8 +35,8 @@
 -   🔐 This document has been uploaded using the *secure* **FTP** protocol, guaranteeing its **authenticity**, see [*RFT-00021 - FTP (Full Trolling Protocol)*](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00021---ftp-protocol-full-trolling-protocol-u1-rev21).
 -   🇫🇷 For non-French readers, `faire le pitre` is **synonymous** with `play the clown`, could help.
 -   ⚖️ Because we are in fact the *author*, we are publishing a **copy** of the [Responsible Trolls Disclosure Act](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md) here. It does **not** replace the official version`*`, which alone is **authentic**. 
--   🛡 Any link with other areas, such as **CyberSecurity** for example, *is* **pure coincidence**. Besides, if it doesn't exactly fit, it *may* or *may not* be **intentional**.
     > `*` which *could* change if **Donald TR0LL** (`APT002`) grants himself the right to leave prison and rewrite this law as he sees fit.
+-   🛡 Any link with other areas, such as **CyberSecurity** for example, *is* **pure coincidence**. Besides, if it doesn't exactly fit, it *may* or *may not* be **intentional**.
 -   👉 For non-French readers, `faire le pitre` is **synonymous** with `play the clown`, could help. 🇫🇷
 -   ⚠️ **IMPORTANT** You **MUST** *understand* and be ok with ***all*** of this otherwise **go away** *(see [Mitr0ll Licence v13.37](/LICENSE.md))*. 
 
