@@ -10,8 +10,8 @@
 -   [Appendix 1 - Notes from the Ethical Trolling Group](#appendix-1---notes-from-the-ethical-trolling-group)
     -   [Note-1337 *(Anonymous comment from kristuff)*](#note-1337-anonymous-comment-from-kristuff)
     -   [Note-6666 *(Anonymous comment from kristuff)*](#note-6666-anonymous-comment-from-kristuff)
-    -   [Note-9999 *(Automated anonymous comment from trollpilot 🤖)*](#note-9999666-automated-anonymous-comment-from-trollpilot-🤖)
-    -   [Note-9999966 *(Automated anonymous comment from trollpilot 🤖)*](#note-9999966-automated-anonymous-comment-from-trollpilot-🤖)
+    -   [Note-9999 *(Automated anonymous comment from trollpilot 🤖)*](#note-9999666-automated-anonymous-comment-from-trollpilot-)
+    -   [Note-9999966 *(Automated anonymous comment from trollpilot 🤖)*](#note-9999966-automated-anonymous-comment-from-trollpilot-)
 
 ## DISCLAIMER
 
