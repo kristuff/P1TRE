@@ -1,6 +1,6 @@
-## ⚖️ Informations Légales  🇫🇷
+## ⚖️ Informations Légales 🇫🇷
 
-Ce projet, au capital illimité!, est la sous forme trollidique `PTVICU`.
+Ce projet, au capital illimité!, est la sous forme trollidique `PTVICU`. 
 
 > `PTVICU`: **P**rojet à date de **T**erminaison **V**ariable (et surtout **I**ndéterminée) à **C**ontributeur **U**nique 
 
@@ -15,4 +15,4 @@ Ce projet, au capital illimité!, est la sous forme trollidique `PTVICU`.
 > - *✅ Secured by BlueScreen (`C:\Users\troll\OneTroll\troll.xls`)*
 > - *🤖 Stolen again by BlueScreen TrollPilot, just in case*
 >  
-> **P1TRE TATTT&&KB ~ Ethical Trolling Manual (*e™*)** | (*i*)PE Format v5.0  *(Irreversible Portable Excel5.0 Format © 1995 BlueScreen 🪟)* | P1TRE🤡 is a **registered trollmark** of #REF! Corporation | Copyright © 2023 #REF! Corporation, undefined, null, \x90, 'OR 1=1 -- && kristuff | All rights reserved | [Mitr0ll Licence v13.37](/LICENSE.md)
+> **P1TRE TATTT&&KB ~ Ethical Trolling Manual (*e™*)** | (*i*)PE Format v5.0  *(Irreversible Portable Excel5.0 Format © 1995 BlueScreen 🪟)* | P1TRE🤡 is a **registered trollmark** of #REF! Corporation | Copyright © 2023 #REF! Corporation && kristuff | All rights reserved | [Mitr0ll Licence v13.37](/LICENSE.md)

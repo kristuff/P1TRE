@@ -66,5 +66,5 @@ A1048577 | hidden (2) | `=(RGB'\x90🐙A(255,255,255,'\x90🐙0))` *(1)* | **Eth
 > - *✅ Secured by BlueScreen (`C:\Users\troll\OneTroll\troll.xls`)*
 > - *🤖 Stolen again by BlueScreen TrollPilot, just in case*
 >  
-> **P1TRE TATTT&&KB ~ Ethical Trolling Manual (*e™*)** | (*i*)PE Format v5.0  *(Irreversible Portable Excel5.0 Format © 1995 BlueScreen 🪟)* | P1TRE🤡 is a **registered trollmark** of #REF! Corporation | Copyright © 2023 #REF! Corporation, undefined, null, \x90, 'OR 1=1 -- && kristuff | All rights reserved | [Mitr0ll Licence v13.37](/LICENSE.md)
+> **P1TRE TATTT&&KB ~ Ethical Trolling Manual (*e™*)** | (*i*)PE Format v5.0  *(Irreversible Portable Excel5.0 Format © 1995 BlueScreen 🪟)* | P1TRE🤡 is a **registered trollmark** of #REF! Corporation | Copyright © 2023 #REF! Corporation && kristuff | All rights reserved | [Mitr0ll Licence v13.37](/LICENSE.md)
 
