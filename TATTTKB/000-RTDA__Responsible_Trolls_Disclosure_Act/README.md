@@ -49,6 +49,12 @@ Sec. §             | Stated
 
 ### Note-1337 *(Anonymous comment from kristuff)*
 
+
+```
+From: ? *(Anonymous comment from kristuff)*
+To: @everyone
+```
+
 For the purposes of section [.§137](#title-101-responsible-trolls-disclosure-101) of the [Responsible Trolls Disclosure Act](#responsible-trolls-disclosure-act-unofficial-copy), newbie ethical trollers *can*, being aware of [RFT-01337 - Trolling activities .§103](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition) use:
 
 -   ***a)***  very **unsecure** channel communication method **FTP** (see [*RFT-00021 - FTP (Full Trolling Protocol)*](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00021---ftp-protocol-full-trolling-protocol-u1-rev21)); 
@@ -59,6 +65,11 @@ For the purposes of section [.§137](#title-101-responsible-trolls-disclosure-10
 
 ### Note-6666 *(Anonymous comment from kristuff)*
 
+```
+From: `null` *(Anonymous comment from kristuff)*
+To: @everyone
+```
+
 For the purposes of [Note-1337 *(Anonymous comment from kristuff)*](#note-1337-anonymous-comment-from-kristuff) of the [Appendix 1 - Notes from Ethical Trolling Group](#appendix-1---notes-from-ethical-trolling-group), know Twitter is now known as "*X*" or "*Something went wrong...*". 
 
 
@@ -66,11 +77,39 @@ For the purposes of [Note-1337 *(Anonymous comment from kristuff)*](#note-1337-a
 
 ### Note-9999 *(Automated anonymous comment from trollpilot 🤖)*
 
-For the purposes of section [§137](#title-101-responsible-trolls-disclosure-101) of the [Responsible Trolls Disclosure Act](#responsible-trolls-disclosure-act-unofficial-copy), newbie ethical trollers *should* (IMHO) use:
+```
+From: @trollpilot
+To: @everyone
+```
 
--   d)  Exfiltration over **TNS** (*Troll Name System*, on port `53`), using a **T2** server (**Troll && Troll**) on `127.0.0.1` port `65536`, successfully compromised with **prior** and **explicit** permission.
+For the purposes of section [§137](#title-101-responsible-trolls-disclosure-101) of the [Responsible Trolls Disclosure Act](#responsible-trolls-disclosure-act-unofficial-copy), newbie ethical trollers *should* (**IMHO**) use:
+
+-   ***c)***  Exfiltration over **TNS** (*Troll Name System*, on port `53`), using a **T2** server (**Troll && Troll**) on `127.0.0.1` port `65536`, successfully compromised with **prior** and **explicit** permission.
 
 
+
+### Note-9999666 *(Automated anonymous comment from trollpilot 🤖)*
+
+```
+From: @trollpilot
+To: @trollpilot
+```
+
+Please be Nice with newbie.
+/warn @trollpilot
+
+
+### Note-99999666666666666666666666666666 *(Automated anonymous comment from trollpilot 🤖)*
+
+```
+From: @trollpilot
+To: @trollpilot
+```
+
+@trollpilot has been warned @trollpilot
+```
+❌ ERROR: SelfTrollException (File: C:\Users\troll\OneTroll\troll.xls?line=troll)
+```
 
 
 

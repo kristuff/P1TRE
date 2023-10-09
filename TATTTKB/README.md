@@ -9,6 +9,9 @@
  <details>
     <summary>🛡 LOGO (FIXED)</summary>
 
+![P1TRE Official logo: trollina!1337!!! 'OR 1=1 --\x90;${jd1://} Local Trollato #REF!](/assets/advisory.png)
+
+
 ![P1TRE Official logo: trollina!1337!!! 'OR 1=1 --\x90;${jd1://} Local Trollato #REF!](/assets/logo.CLEAN.png)
 
  </details>
@@ -25,13 +28,13 @@
     -   [P1TRE🤡 TATTT&&KB TTT (Trolls Trolling Techniques) Excel Database](/TATTTKB/APT-Active_Persistent_Trolls/README.md)
     -   [P1TRE🤡 TATTT&&KB TTS (Trolls Trolling Sofwares) Excel Database](/TATTTKB/APT-Active_Persistent_Trolls/README.md)
 -   [RFTs (**R**ules **F**or **T**rolling)](/TATTTKB/RFT__Rules_For_Trolling/README.md) *compiled as of January 1, 1970* 
-    -   [RFT-00001 - Common sense](#rft-00001---common-sense)
-    -   [RFT-00021 - FTP Protocol (Full Trolling Protocol)](#rft-00021---ftp-protocol-full-trolling-protocol-u1-rev21)
-    -   [RFT-00053 - TNS Protocol (Troll Name System Protocol)](#rft-00053---tns-protocol-troll-name-system-protocol)
-    -   [RFT-01337-nt - Trolling activities NT *(Nuclear Threat Edition)*](#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition)
+    -   [RFT-00001 - Common sense](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense)
+    -   [RFT-00021 - FTP Protocol (Full Trolling Protocol)](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00021---ftp-protocol-full-trolling-protocol-u1-rev21)
+    -   [RFT-00053 - TNS Protocol (Troll Name System Protocol)](/TATTTKB/RFT__Rules_For_Trolling/README.md#r#rft-00053---tns-protocol-troll-name-system-protocol)
+    -   [RFT-01337-nt - Trolling activities NT *(Nuclear Threat Edition)*](/TATTTKB/RFT__Rules_For_Trolling/README.md#r#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition)
     -   #REF!
--   [FTE (**F**amous **T**rolls Exposures)](/TATTTKB/FTE__Famus_Trolls_Exposures/Database.XLS/README.md)
-    -   [Compiled FTEs (**F**amous **T**rolls Exposures) Excel Database](/TATTTKB/FTE__Famus_Trolls_Exposures/Database.XLS/README.md) *compiled as of January 1, 1970* <!-- 😬 -->
+-   [FTE (**F**amous **T**rolls Exposures)](/TATTTKB/FTE__Famous_Trolls_Exposures/Database.XLS/README.md)
+    -   [Compiled FTEs (**F**amous **T**rolls Exposures) Excel Database](/TATTTKB/FTE__Famous_Trolls_Exposures/Database.XLS/README.md) *compiled as of January 1, 1970* <!-- 😬 -->
     -   [Technical Analysis of recent FTEs](/TATTTKB/FTE__Famous_Trolls_Exposures/Technical_analysis/README.md) 
 -   [Responsible Trolls Disclosure Act *(unofficial copy (3))*](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#responsible-trolls-disclosure-act-unofficial-copy-3)
     -   [Title 1. Newbie. Common sense. Reminders](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#title-1-newbie-common-sense-reminders)

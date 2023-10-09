@@ -44,8 +44,8 @@
     -   [P1TRE🤡 TATTT&&KB APT (Active Persistent Trolls) Excel Database](/TATTTKB/APT-Active_Persistent_Trolls/README.md)
     -   [P1TRE🤡 TATTT&&KB TTT (Trolls Trolling Techniques) Excel Database](/TATTTKB/APT-Active_Persistent_Trolls/README.md)
     -   [P1TRE🤡 TATTT&&KB TTS (Trolls Trolling Sofwares) Excel Database](/TATTTKB/APT-Active_Persistent_Trolls/README.md)
--   [FTE (**F**amous **T**rolls Exposures)](/TATTTKB/FTE__Famus_Trolls_Exposures/Database.XLS/README.md)
-    -   [Compiled FTEs (**F**amous **T**rolls Exposures) Excel Database](/TATTTKB/FTE__Famus_Trolls_Exposures/Database.XLS/README.md) *compiled as of January 1, 1970* <!-- 😬 -->
+-   [FTE (**F**amous **T**rolls Exposures)](/TATTTKB/FTE__Famous_Trolls_Exposures/Database.XLS/README.md)
+    -   [Compiled FTEs (**F**amous **T**rolls Exposures) Excel Database](/TATTTKB/FTE__Famous_Trolls_Exposures/Database.XLS/README.md) *compiled as of January 1, 1970* <!-- 😬 -->
     -   [Technical Analysis of recent FTEs](/TATTTKB/FTE__Famous_Trolls_Exposures/Technical_analysis/README.md) 
 -   [RFTs (**R**ules **F**or **T**rolling)](/TATTTKB/RFT__Rules_For_Trolling/README.md) *compiled as of January 1, 1970*  <!-- 😬 -->
     -   [RFT-00001 - Common sense](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense)
