@@ -8,7 +8,10 @@
     -   [Title 1. Newbie. Common sense. Reminders](#title-1-newbie-common-sense-reminders)
     -   [Title 101. Responsible Trolls Disclosure 101](#title-101-responsible-trolls-disclosure-101)
 -   [Appendix 1 - Notes from the Ethical Trolling Group](#appendix-1---notes-from-the-ethical-trolling-group)
-
+    -   [Note-1337 *(Anonymous comment from kristuff)*](#note-1337-anonymous-comment-from-kristuff)
+    -   [Note-6666 *(Anonymous comment from kristuff)*](#note-6666-anonymous-comment-from-kristuff)
+    -   [Note-9999 *(Automated anonymous comment from trollpilot 🤖)*](#note-9999666-automated-anonymous-comment-from-trollpilot-🤖)
+    -   [Note-99999666666666666666666666666666 *(Automated anonymous comment from trollpilot 🤖)*](#note-99999666666666666666666666666666-automated-anonymous-comment-from-trollpilot-🤖)
 
 ## DISCLAIMER
 
@@ -51,7 +54,7 @@ Sec. §             | Stated
 
 
 ```
-From: ? *(Anonymous comment from kristuff)*
+From: ? (Anonymous comment from kristuff)
 To: @everyone
 ```
 
