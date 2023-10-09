@@ -106,7 +106,7 @@ From: @trollpilot
 To: @trollpilot
 ```
 
-@trollpilot has been warned @trollpilot
+@trollpilot has been warned by @trollpilot
 ```
 ❌ ERROR: SelfTrollException (File: C:\Users\troll\OneTroll\troll.xls?line=troll)
 ```
