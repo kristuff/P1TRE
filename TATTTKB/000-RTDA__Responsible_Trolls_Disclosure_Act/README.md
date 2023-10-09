@@ -37,7 +37,7 @@ Sec. §            |  Stated
 
 Sec. §             | Stated 
 ---------         | ------------
-`§101`            | Ethical trollers **MUST** apply ***all*** of [Title 1. Newbie. Common sense. Reminders](#title-1-newbie-common-sense-reminders)
+`§101`            | Ethical trollers **MUST** be aware ***all*** of [Title 1. Newbie. Common sense. Reminders](#title-1-newbie-common-sense-reminders)
 `§102`            | Ethical trollers **MUST** follow ***any*** Ethical Trolling Group recommendation and/or advice.
 `§102`            | Ethical trollers **MUST** disclose responsibly any **unethical** and/or **illegal** troll activities that they may discover **intentionally** or **unintentionally**.
 `§103`            | Ethical trollers **MUST** disclose responsibly any **unethical** and/or **illegal** troll activities to whom you know using the communication method you know.
