@@ -9,7 +9,7 @@
  <details>
     <summary>🛡 LOGO (FIXED)</summary>
 
-![P1TRE Official logo: trollina!1337!!! 'OR 1=1 --\x90;${jd1:} Local Trollato #REF!](/assets/logo.CLEAN.png)
+![P1TRE Official logo: trollina!1337!!! 'OR 1=1 --\x90;${jd1://} Local Trollato #REF!](/assets/logo.CLEAN.png)
 
  </details>
  

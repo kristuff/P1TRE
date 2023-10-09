@@ -1,10 +1,10 @@
-## MITr0ll License v13.37 🧵 1/1
+## ⚖️ MITr0ll License v13.37 🧵 1/1
 
 ***[Massachusetts Institute of Trolling Licence](#mitr0ll-license-v1337) - rev13.37*** 
 
 ------------
 
-🔑 Copyright © 2023 `undefined` && kristuff | 🔑 All rights reserved | [Mitr0ll Licence v13.37](/LICENSE.md)
+⚖️ Copyright © 2023 kristuff | 🔑 All rights reserved | [Mitr0ll Licence v13.37](/LICENSE.md)
 
 Permission is hereby granted, free of charge, to any to any persons **or almost (a)** obtaining a copy of this software and associated documentation files (the “Software”), to:
 -   read 👀, 
@@ -27,7 +27,7 @@ the Software without restriction. **That's all**.
 
 🪖 **In no event** shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the Software.
 
--   **(a)** - 🚫 **MUST NOT USE** the Software **ALL** *real* *unethical* Troll Actors ⛔️ *([RFT-01337-nt - Trolling activities NT *(Nuclear Threat Edition)*](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition))*.
+-   **(a)** 🚫 **MUST NOT USE** the Software **ALL** *real* *unethical* Troll Actors ⛔️ *([RFT-01337-nt - Trolling activities NT *(Nuclear Threat Edition)*](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition))*.
 
 ---------
 
