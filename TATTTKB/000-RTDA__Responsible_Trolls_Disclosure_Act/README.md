@@ -41,7 +41,10 @@ Sec. §             | Stated
 `§102`            | Ethical trollers **MUST** follow ***any*** Ethical Trolling Group recommendation and/or advice.
 `§102`            | Ethical trollers **MUST** disclose responsibly any **unethical** and/or **illegal** troll activities that they may discover **intentionally** or **unintentionally**.
 `§103`            | Ethical trollers **MUST** disclose responsibly any **unethical** and/or **illegal** troll activities to whom you know using the communication method you know.
+`§104`            | *See [§444](#title-101-responsible-trolls-disclosure-101)*
 `§137`            | By derogation from section [§103](#title-101-responsible-trolls-disclosure-101), newbie Ethical trollers ***can***, being very careful, use others communication method as defined, now or in the future, by the **Ethical Trolling Group**.
+`§444`            | *See [§104](#title-101-responsible-trolls-disclosure-101)*
+`§999`            | *See [§444](#title-101-responsible-trolls-disclosure-101)*
 
 
 
