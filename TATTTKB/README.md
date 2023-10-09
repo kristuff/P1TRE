@@ -39,7 +39,7 @@
 -   [Responsible Trolls Disclosure Act *(unofficial copy (3))*](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#responsible-trolls-disclosure-act-unofficial-copy-3)
     -   [Title 1. Newbie. Common sense. Reminders](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#title-1-newbie-common-sense-reminders)
     -   [Title 101. Responsible Trolls Disclosure 101](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#title-101-responsible-trolls-disclosure-101)
--   [Appendix 1 - Notes from the Ethical Trolling Group](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#appendix-1---notes-from-ethical-trolling-group)
+-   [Appendix 1 - Notes from the Ethical Trolling Group](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#appendix-1---notes-from-the-ethical-trolling-group)
 -   #REF!
 
 

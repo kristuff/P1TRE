@@ -7,7 +7,7 @@
 -   [Responsible Trolls Disclosure Act *(unofficial copy (3))*](#responsible-trolls-disclosure-act-unofficial-copy-3)
     -   [Title 1. Newbie. Common sense. Reminders](#title-1-newbie-common-sense-reminders)
     -   [Title 101. Responsible Trolls Disclosure 101](#title-101-responsible-trolls-disclosure-101)
--   [Appendix 1 - Notes from the Ethical Trolling Group](#appendix-1---notes-from-ethical-trolling-group)
+-   [Appendix 1 - Notes from the Ethical Trolling Group](#appendix-1---notes-from-the-ethical-trolling-group)
 
 
 ## DISCLAIMER
@@ -70,7 +70,7 @@ From: null (Anonymous comment from kristuff)
 To: @everyone
 ```
 
-For the purposes of [Note-1337 *(Anonymous comment from kristuff)*](#note-1337-anonymous-comment-from-kristuff) of the [Appendix 1 - Notes from the Ethical Trolling Group](#appendix-1---notes-from-ethical-trolling-group), know Twitter is now known as "*X*" or "*Something went wrong...*". 
+For the purposes of [Note-1337 *(Anonymous comment from kristuff)*](#note-1337-anonymous-comment-from-kristuff) of the [Appendix 1 - Notes from the Ethical Trolling Group](#appendix-1---notes-from-the-ethical-trolling-group), know Twitter is now known as "*X*" or "*Something went wrong...*". 
 
 
 
