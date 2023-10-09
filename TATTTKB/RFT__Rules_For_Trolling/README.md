@@ -30,9 +30,9 @@ Sec §        | Definition
 `§0640`      | **Everything** that is public is public. **Everything** that is private is private. Removing `id_rsa` from that repo would be great. 
 `§777`       | **Permission** to modify this section *is* granted, but it's **not possible** because the key is broken (see [RFT-00001 .§0640](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense)).
 `§4777`      | **Don't** do crazy things.
-`§6666`      | **Donald TROLL** *(codename `APT002` 👺💀)* *should* read [RFT-00001 Common sense .§1](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense), [RFT-00001 Common sense §3](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense) and ***MUST*** stop!!
-`§666666`    | **Vladimir TROLLING** & co. *(codename `APT001`/`APT-nt-001` 👺☢️💀)* *should* read [RFT-00001 .§3](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense), [RFT-00001 Common sense .§/../../../../777UKRAINI](#rft-00001---common-sense) and ***MUST*** stop!!
-`§66666666`  | **Elon TROLL** *(codename `APT003` 👺💀)* *should* read   [RFT-00001 .§1](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense), [RFT-00001 .§2](#rft-00001---common-sense), [RFT-00001 .§3](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense) and ***MUST*** stop!!
+`§6666`      | **Donald TR0LL** & co *(codename `APT002` 👺💀)* *should* read [RFT-00001 Common sense .§1](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense), [RFT-00001 Common sense §3](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense) and ***MUST*** stop!!
+`§666666`    | **Vlad TR0LLING** & co. *(codename `APT001`/`APT-nt-001` 👺☢️💀)* *should* read [RFT-00001 .§3](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense), [RFT-00001 Common sense .§/../../../../777UKRAINI](#rft-00001---common-sense) and ***MUST*** stop!!
+`§66666666`  | **Elon TR0LL** *(codename `APT003` 👺💀)* *should* read   [RFT-00001 .§1](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense), [RFT-00001 .§2](#rft-00001---common-sense), [RFT-00001 .§3](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense) and ***MUST*** stop!!
 `§/../../../../777UKRAINI`| 👺💀 + 🛡💙💛⚔️🚬 = 👺💀🪦 && ❤️💙💛🪅🎉 
 
 

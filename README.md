@@ -36,7 +36,7 @@
 -   🇫🇷 For non-French readers, `faire le pitre` is **synonymous** with `play the clown`, could help.
 -   ⚖️ Because we are in fact the *author*, we are publishing a **copy** of the [Responsible Trolls Disclosure Act](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md) here. It does **not** replace the official version`*`, which alone is **authentic**. 
 -   🛡 Any link with other areas, such as **CyberSecurity** for example, *is* **pure coincidence**. Besides, if it doesn't exactly fit, it *may* or *may not* be **intentional**.
-    > `*` which *could* change if **Donald TROLL** (`APT002`) grants himself the right to leave prison and rewrite this law as he sees fit.
+    > `*` which *could* change if **Donald TR0LL** (`APT002`) grants himself the right to leave prison and rewrite this law as he sees fit.
 -   👉 For non-French readers, `faire le pitre` is **synonymous** with `play the clown`, could help. 🇫🇷
 -   ⚠️ **IMPORTANT** You **MUST** *understand* and be ok with ***all*** of this otherwise **go away** *(see [Mitr0ll Licence v13.37](/LICENSE.md))*. 
 

@@ -14,7 +14,7 @@
 
 -   ⚖️ Because we are in fact the *author*, we are publishing a **copy** of the [Responsible Trolls Disclosure Act](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md) here. It does **not** replace the official version`*`, which alone is **authentic**. 
 
-    > `*` which could change if **Donald TROLL** (`APT002`) grants himself the right to leave prison and rewrite this law as he sees fit.
+    > `*` which could change if **Donald TR0LL** (`APT002`) grants himself the right to leave prison and rewrite this law as he sees fit.
 
 
 
