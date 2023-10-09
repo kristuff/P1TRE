@@ -58,7 +58,7 @@ From: ? (Anonymous comment from kristuff)
 To: @everyone
 ```
 
-For the purposes of section [.§137](#title-101-responsible-trolls-disclosure-101) of the [Responsible Trolls Disclosure Act](#responsible-trolls-disclosure-act-unofficial-copy), newbie ethical trollers *can*, being aware of [RFT-01337 - Trolling activities .§103](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition) use:
+For the purposes of section [.§137](#title-101-responsible-trolls-disclosure-101) of the [Responsible Trolls Disclosure Act](#responsible-trolls-disclosure-act-unofficial-copy-3), newbie ethical trollers *can*, being aware of [RFT-01337 - Trolling activities .§103](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition) use:
 
 -   ***a)***  very **unsecure** channel communication method **FTP** (see [*RFT-00021 - FTP (Full Trolling Protocol)*](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00021---ftp-protocol-full-trolling-protocol-u1-rev21)); 
 -   ***b)***  `troll64` encoding technique on Twitter platform;
@@ -85,7 +85,7 @@ From: @trollpilot
 To: @everyone
 ```
 
-For the purposes of section [§137](#title-101-responsible-trolls-disclosure-101) of the [Responsible Trolls Disclosure Act](#responsible-trolls-disclosure-act-unofficial-copy), newbie ethical trollers *should* (**IMHO**) use:
+For the purposes of section [§137](#title-101-responsible-trolls-disclosure-101) of the [Responsible Trolls Disclosure Act](#responsible-trolls-disclosure-act-unofficial-copy-3), newbie ethical trollers *should* (**IMHO**) use:
 
 -   ***c)***  Exfiltration over **TNS** (*Troll Name System*), using a **T2** server (**Troll && Troll**) on `127.0.0.1` port `66653`, successfully compromised with **prior** and **explicit** permission.
 
