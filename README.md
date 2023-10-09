@@ -36,7 +36,7 @@
 -   👉 For non-French readers, `faire le pitre` is **synonymous** with `play the clown`, could help. 🇫🇷
 -   ⚠️ **IMPORTANT** You **MUST** *understand* and be ok with ***all*** of this otherwise **go away** *(see [Mitr0ll Licence v13.37](/LICENSE.md))*. 
 
-## INCLUDED
+## CONTENT
 
 -   [P1TRE🤡 TATTT&&KB (**T**roll **A**dversary **T**rolling **T**actics and **T**echniques **K**nowledge **B**ase ) PE format v5.0](/TATTTKB/README.md?todo=true)   
     -   [P1TRE🤡 Ethical Trolling 101](/TATTTKB/101-Ethical-Trolling-101.docx/README.md)   
