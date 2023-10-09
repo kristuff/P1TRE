@@ -13,11 +13,10 @@
     <summary>🛡 LOGO (FIXED)</summary>
 
 <!-- // 😬 -->
-![P1TRE Official logo: trollina!1337!!! 'OR 1=1 --\x90\x90\;${jd1://} Local Trollato #REF!](/assets/advisory.png)
+
+![P1TRE Official logo: trollina!1337!!! 'OR 1=1 --\x90\x90\x90\x90\x90\x90;${jd1://f0ll0wed u} Local Trollato #REF!](/assets/logo.CLEAN.png)
+
 <!-- 😬 T0D0: FIX EXCEL DATABASE -->
-
-![P1TRE Official logo: trollina!1337!!! 'OR 1=1 --\x90;${jd1:} Local Trollato #REF!](/assets/logo.CLEAN.png)
-
 
  </details>
  
