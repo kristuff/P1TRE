@@ -11,7 +11,7 @@
     -   [Note-1337 *(Anonymous comment from kristuff)*](#note-1337-anonymous-comment-from-kristuff)
     -   [Note-6666 *(Anonymous comment from kristuff)*](#note-6666-anonymous-comment-from-kristuff)
     -   [Note-9999 *(Automated anonymous comment from trollpilot 🤖)*](#note-9999666-automated-anonymous-comment-from-trollpilot-🤖)
-    -   [Note-99999666666666666666666666666666 *(Automated anonymous comment from trollpilot 🤖)*](#note-99999666666666666666666666666666-automated-anonymous-comment-from-trollpilot-🤖)
+    -   [Note-9999966 *(Automated anonymous comment from trollpilot 🤖)*](#note-9999966-automated-anonymous-comment-from-trollpilot-🤖)
 
 ## DISCLAIMER
 
@@ -102,7 +102,7 @@ Please be Nice with newbie.
 /warn @trollpilot
 
 
-### Note-99999666666666666666666666666666 *(Automated anonymous comment from trollpilot 🤖)*
+### Note-9999966 *(Automated anonymous comment from trollpilot 🤖)*
 
 ```
 From: @trollpilot
