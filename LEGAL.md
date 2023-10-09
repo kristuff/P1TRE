@@ -1,8 +1,8 @@
 ## ⚖️ Informations Légales  🇫🇷
 
-Ce projet est la sous forme trollidique `PTVICU` au capital illimité!
+Ce projet, au capital illimité!, est la sous forme trollidique `PTVICU`.
 
-> `PTVICU`: **P**rojet à date de **T**erminaison** **V**ariable et surtout **I**ndéterminée à **C**ontributeur **U**nique 
+> `PTVICU`: **P**rojet à date de **T**erminaison **V**ariable (et surtout **I**ndéterminée) à **C**ontributeur **U**nique 
 
 
 
