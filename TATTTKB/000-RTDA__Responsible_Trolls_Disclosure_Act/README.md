@@ -7,7 +7,7 @@
 -   [Responsible Trolls Disclosure Act *(unofficial copy (3))*](#responsible-trolls-disclosure-act-unofficial-copy-3)
     -   [Title 1. Newbie. Common sense. Reminders](#title-1-newbie-common-sense-reminders)
     -   [Title 101. Responsible Trolls Disclosure 101](#title-101-responsible-trolls-disclosure-101)
--   [Appendix 1 - Notes from Ethical Trolling Group](#appendix-1---notes-from-ethical-trolling-group)
+-   [Appendix 1 - Notes from the Ethical Trolling Group](#appendix-1---notes-from-ethical-trolling-group)
 
 
 ## DISCLAIMER
@@ -44,7 +44,7 @@ Sec. §             | Stated
 
 --------------
 
-## Appendix 1 - Notes from Ethical Trolling Group
+## Appendix 1 - Notes from the Ethical Trolling Group
 
 
 ### Note-1337 *(Anonymous comment from kristuff)*
@@ -66,11 +66,11 @@ For the purposes of section [.§137](#title-101-responsible-trolls-disclosure-10
 ### Note-6666 *(Anonymous comment from kristuff)*
 
 ```
-From: `null` *(Anonymous comment from kristuff)*
+From: null (Anonymous comment from kristuff)
 To: @everyone
 ```
 
-For the purposes of [Note-1337 *(Anonymous comment from kristuff)*](#note-1337-anonymous-comment-from-kristuff) of the [Appendix 1 - Notes from Ethical Trolling Group](#appendix-1---notes-from-ethical-trolling-group), know Twitter is now known as "*X*" or "*Something went wrong...*". 
+For the purposes of [Note-1337 *(Anonymous comment from kristuff)*](#note-1337-anonymous-comment-from-kristuff) of the [Appendix 1 - Notes from the Ethical Trolling Group](#appendix-1---notes-from-ethical-trolling-group), know Twitter is now known as "*X*" or "*Something went wrong...*". 
 
 
 
@@ -84,7 +84,7 @@ To: @everyone
 
 For the purposes of section [§137](#title-101-responsible-trolls-disclosure-101) of the [Responsible Trolls Disclosure Act](#responsible-trolls-disclosure-act-unofficial-copy), newbie ethical trollers *should* (**IMHO**) use:
 
--   ***c)***  Exfiltration over **TNS** (*Troll Name System*, on port `53`), using a **T2** server (**Troll && Troll**) on `127.0.0.1` port `65536`, successfully compromised with **prior** and **explicit** permission.
+-   ***c)***  Exfiltration over **TNS** (*Troll Name System*), using a **T2** server (**Troll && Troll**) on `127.0.0.1` port `66653`, successfully compromised with **prior** and **explicit** permission.
 
 
 
