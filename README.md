@@ -18,6 +18,8 @@
 
 <!-- 😬 T0D0: FIX EXCEL DATABASE -->
 
+<!-- TODO OR NOT TODO ?       - W. Trollspeare -->
+
  </details>
  
 
@@ -55,10 +57,7 @@
     -   [RFT-00021 - FTP Protocol (Full Trolling Protocol)](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00021---ftp-protocol-full-trolling-protocol-u1-rev21)
     -   [RFT-00053 - TNS Protocol (Troll Name System Protocol)](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00053---tns-protocol-troll-name-system-protocol)
     -   [RFT-01337-nt - Trolling activities NT *(Nuclear Threat Edition)*](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition)
-    -   #REF!
-    <!-- TODO: REMOVE TODO -->
--   #REF!
-<!-- TODO: REMOVE TODO -->
+    -   #REF! <!-- TODO: REMOVE TODO -->
 -   [Responsible Trolls Disclosure Act *(unofficial copy (3))*](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#responsible-trolls-disclosure-act-unofficial-copy-3)
     -   [Title 1. Newbie. Common sense. Reminders](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#title-1-newbie-common-sense-reminders)
     -   [Title 101. Responsible Trolls Disclosure 101](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#title-101-responsible-trolls-disclosure-101)
@@ -67,6 +66,8 @@
     -   [Note-6666 *(Anonymous comment from kristuff)*](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#note-6666-anonymous-comment-from-kristuff)
     -   [Note-9999 *(Automated anonymous comment from trollpilot 🤖)*](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#note-9999666-automated-anonymous-comment-from-trollpilot-)
     -   [Note-9999966 *(Automated anonymous comment from trollpilot 🤖)*](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#note-9999966-automated-anonymous-comment-from-trollpilot-)
+-   #REF! <!-- TODO: FIX -->
+<!-- TODO OR NOT TODO ?       - W. Trollspeare -->
 
 ## ACKNOWLEDGMENTS
 
@@ -85,7 +86,6 @@ We would like to ***kindly*** thank:
     # **Pseudo** code 
     while(true) try &2>/dev/prod
     ```
-
 
 
 ## Footer v13.37
