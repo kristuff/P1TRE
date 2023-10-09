@@ -5,14 +5,16 @@
 **TATTT&&KB**, **T**roll **A**dversary **T**rolling **T**actics and **T**echniques **K**nowledge **B**ase is a globally-accessible knowledge base of troll adversary trolling tactics and techniques based on real/unreal-world observations (*full stack world*). 
 
 <!-- 😬 -->
-[!\[P1TRE Official LOGO: trollina!1337!!! 'OR 1=1 --\x90;${jd1:} Local Trollato #REF!](/README.md#🛡-P1TRE🤡-tatttkb--ethical-trolling-manual-e™) *(TODO: fix trolled path)* 🔥
+[!\[P1TRE Official LOGO: trollina!1337!!! 'OR 1=1 --\x90\x90\x90\x90\x90;${jd1://f0ll0wd u} Local Trollato #REF! #REF! #REF!](/README.md#🛡-P1TRE🤡-tatttkb--ethical-trolling-manual-e™) *(TODO: fix trolled path)* 🔥
+
+![P1TRE Official logo: trollina!1337!!! 'OR 1=1 --\x90\x90\;${jd1://} Local Trollato #REF!](/assets/advisory.png)
 
  <details>
     <summary>🛡 LOGO (FIXED)</summary>
 
-<!-- 😬 -->
-![P1TRE Official logo: trollina!1337!!! 'OR 1=1 --\x90;${jd1://} Local Trollato #REF!](/assets/advisory.png)
-<!-- 😬 -->
+<!-- // 😬 -->
+![P1TRE Official logo: trollina!1337!!! 'OR 1=1 --\x90\x90\;${jd1://} Local Trollato #REF!](/assets/advisory.png)
+<!-- 😬 T0D0: FIX EXCEL DATABASE -->
 
 ![P1TRE Official logo: trollina!1337!!! 'OR 1=1 --\x90;${jd1:} Local Trollato #REF!](/assets/logo.CLEAN.png)
 
