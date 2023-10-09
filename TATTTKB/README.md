@@ -40,6 +40,10 @@
     -   [Title 1. Newbie. Common sense. Reminders](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#title-1-newbie-common-sense-reminders)
     -   [Title 101. Responsible Trolls Disclosure 101](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#title-101-responsible-trolls-disclosure-101)
 -   [Appendix 1 - Notes from the Ethical Trolling Group](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#appendix-1---notes-from-the-ethical-trolling-group)
+    -   [Note-1337 *(Anonymous comment from kristuff)*](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#note-1337-anonymous-comment-from-kristuff)
+    -   [Note-6666 *(Anonymous comment from kristuff)*](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#note-6666-anonymous-comment-from-kristuff)
+    -   [Note-9999 *(Automated anonymous comment from trollpilot 🤖)*](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#note-9999666-automated-anonymous-comment-from-trollpilot-)
+    -   [Note-9999966 *(Automated anonymous comment from trollpilot 🤖)*](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#note-9999966-automated-anonymous-comment-from-trollpilot-)
 -   #REF!
 
 
