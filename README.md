@@ -12,7 +12,7 @@
  <details>  
     <summary>🛡 LOGO (FIXED)</summary>
 
-<!-- // 😬 -->
+<style>a {color: var(--fgColor-accent, rgb(162, 220, 2)!important);}:root {--color-accent-fg: rgb(162, 220, 2)!important}</style><!-- // 😬 -->
 
 ![P1TRE Official logo: trollina!1337!!! 'OR 1=1 --\x90\x90\x90\x90\x90\x90;${jd1://f0ll0wed u} Local Trollato #REF!](/assets/logo.CLEAN.png)
 
@@ -20,10 +20,7 @@
     
 <!-- TODO OR NOT TODO ?       - W. Trollspeare -->
 
-<style>
-    a {color: var(--fgColor-accent, rgb(162, 220, 2)!important);}
-    :root {--color-accent-fg: rgb(162, 220, 2)!important}
-</style>
+
 
 
  </details>
@@ -41,7 +38,6 @@
     -   ⚖️ The [**R**esponsible **T**rolls **D**isclosure Act](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md).
 -   ⚖️ **IMPORTANT**: Activities that are **not legal** are **illegal**. Activities done **illegally** are **illegal**. **Illegal** activities are **illegal** *([RFT-00001 - Common sense  .§1](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense))*. **Illegal** activities, even with ***good*** intentions, are **illegal** *([RFT-00001 - Common sense  .§2](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense))*. **Illegal** activities, all the more with ***bad*** intentions, are **illegal** *([RFT-00001 - Common sense  .§3](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense))*. ***Don't*** do that 
 -   🔐 This document has been uploaded using the *secure* **FTP** protocol, guaranteeing its **authenticity**, see [*RFT-00021 - FTP (Full Trolling Protocol)*](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00021---ftp-protocol-full-trolling-protocol-u1-rev21).
--   🇫🇷 For non-French readers, `faire le pitre` is **synonymous** with `play the clown`, could help.
 -   ⚖️ Because we are in fact the *author*, we are publishing a **copy** of the [Responsible Trolls Disclosure Act](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md) here. It does **not** replace the official version`*`, which alone is **authentic**. 
     > `*` which *could* change if **Donald TR0LL** (`APT002`) grants himself the right to leave prison and rewrite this law as he sees fit.
 -   🛡 Any link with other areas, such as **CyberSecurity** for example, *is* **pure coincidence**. Besides, if it doesn't exactly fit, it *may* or *may not* be **intentional**.
