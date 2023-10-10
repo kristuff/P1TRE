@@ -1,4 +1,4 @@
-# P1TRE🤡 TATTT&&KB ~ *⚔️🛡 Ethical Trolling Manual (e™)* 
+# P1TRE🤡 TATTT&&KB ~ *⚔️🛡 Ethical Trolling Manual* 
 
 > TATTT&&KB ~ Ethical Trolling Manual (e™) • (*i*)PE Format v5.0  *(Irreversible Portable Excel5.0 Format © 1995 BlueScreen)* • P1TRE🤡 is a registered trollmark of #REF! Corporation • Copyright © 2023 #REF! Corporation && kristuff
 
