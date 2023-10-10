@@ -53,7 +53,7 @@ Sec. §             | Stated
 ## Appendix 1 - Notes from the Ethical Trolling Group
 
 
-### Note-1337 *(Anonymous comment from kristuff)*
+### Note-1337 *(Anonymous comment from kristuff)* 🌿
 
 
 ```
@@ -69,7 +69,7 @@ For the purposes of section [.§137](#title-101-responsible-trolls-disclosure-10
 
 
 
-### Note-6666 *(Anonymous comment from kristuff)*
+### Note-6666 *(Anonymous comment from kristuff)* 🌿
 
 ```
 From: null (Anonymous comment from kristuff)
@@ -94,7 +94,7 @@ For the purposes of section [§137](#title-101-responsible-trolls-disclosure-101
 
 
 
-### Note-9999666 *(Automated anonymous comment from trollpilot 🤖)*
+### Note-9999666 *(Automated anonymous comment from trollpilot 🤖)* 🛡 MOD
 
 ```
 From: @trollpilot
@@ -102,7 +102,7 @@ To: @trollpilot
 ```
 
 Please be Nice with newbie.
-/warn @trollpilot
+/warn `@trollpilot`
 
 
 ### Note-9999966 *(Automated anonymous comment from trollpilot 🤖)*
@@ -112,7 +112,7 @@ From: @trollpilot
 To: @trollpilot
 ```
 
-⚠️ @trollpilot has been warned by @trollpilot
+⚠️ `@trollpilot` has been warned by `@trollpilot`
 
 ```
 ❌ ERROR: SelfTrollingException (File: C:\Users\troll\OneTroll\troll.xls?line=troll&cell=A1337)
