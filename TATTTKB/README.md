@@ -68,6 +68,10 @@
 
     </details>
 
+-   ⚠️ **WARNING TO X-TWITTER USERS**: With the infamies ELMO throws at his "X" every day, **it has now been established** that the current version of `X-Twitter` (v44,000,000,000) is **infected with a harmful Trollware** (Detection 1337/64 according to TotalTrolling). **It has also been established that ELMO IS A REAL TROLLING ACTOR**, because he **intentionally** deployed his malicious trollware, developed using his superficial intelligence. **ELMO** is now known as `👺APT002` and software **X-Twitter** `👺S0001` in PITRE🤡® ATTR&&ACK® matrix. 
+
+    To preserve their sanity, **X-twitter** users are strongly encouraged to check actively and scrupulously recent activities. 
+
 -   ⚠️ **IMPORTANT** This manual may refer to *real* and *unreal* **APTs** (***Active Persistent Trolls*** 👺).
 
 -   ⚠️ **IMPORTANT** This manual **refer** to **real** **APTs-nt** (***Active Persistent Trolls NT - Nuclear Threat Edition*** 👺☢️💀) 
