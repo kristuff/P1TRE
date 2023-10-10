@@ -36,7 +36,7 @@
 -   [FTE (**F**amous **T**rolls Exposures)](/TATTTKB/FTE__Famous_Trolls_Exposures/Database.XLS/README.md)
     -   [Compiled FTEs (**F**amous **T**rolls Exposures) Excel Database](/TATTTKB/FTE__Famous_Trolls_Exposures/Database.XLS/README.md) *compiled as of January 1, 1970* <!-- 😬 -->
     -   [Technical Analysis of recent FTEs](/TATTTKB/FTE__Famous_Trolls_Exposures/Technical_analysis/README.md) 
-    -   [FTSS *(Famous Trolls Scoring System)* EXCEL formula ***revealed***](/TATTTKB/FTSS__Famous_Trolls_Exposures_Scoring_System_EXCEL_FORMULAS/README.md)
+    -   [FTSS *(Famous Trolls Scoring System)* EXCEL formula ***revealed*** 🔥](/TATTTKB/FTSS__Famous_Trolls_Exposures_Scoring_System_EXCEL_FORMULAS/README.md)
 -   [Responsible Trolls Disclosure Act *(unofficial copy (3))*](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#responsible-trolls-disclosure-act-unofficial-copy-3)
     -   [Title 1. Newbie. Common sense. Reminders](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#title-1-newbie-common-sense-reminders)
     -   [Title 101. Responsible Trolls Disclosure 101](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#title-101-responsible-trolls-disclosure-101)

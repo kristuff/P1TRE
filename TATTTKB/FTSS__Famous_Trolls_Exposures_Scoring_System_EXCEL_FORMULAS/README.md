@@ -8,10 +8,11 @@
 `=(FTSS( FTE-ID ))`
 ```
 
-## EXAMPLE
+## EXAMPLES
 
-`=(FTSS(FTE-2023-99999))` # 10.0
-`=(FTSS(FTE-2023-99999))` # 10.0
+-   `=(FTSS(FTE-2023-99999))` # 10.0
+-   `=(FTSS(FTE-2023-99999))` # 10.0
+-   `=(FTSS(CVE-*curl))` # 10.0
 
 
 ## SOURCE CODE
@@ -21,14 +22,13 @@
 # TOP SECRET /
 # ------------
 
-
 #   d:// s://   --> for u :)  
 #   
 #   =(CVSS(CVE-*curl --related --include-nonsense="TRUE|1")) 
 #   ~ 10.0 (tested in real life) 
 
 
-<??php10 
+<??php10EXCEL5.js-extension-x64 
 
 return '10.0'.toFTSS();
 
