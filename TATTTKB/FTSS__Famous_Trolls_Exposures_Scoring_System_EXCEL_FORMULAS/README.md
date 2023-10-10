@@ -22,7 +22,7 @@ This works the same as:
 
 ## SOURCE CODE
 
-```bash
+```php
 # ------------
 # TOP SECRET /
 # ------------
@@ -35,12 +35,15 @@ This works the same as:
 # 
 #   ~ 10.0
 
+<? //??php10EXCEL5.js-extension-x64\x90 
 
-<??php10EXCEL5.js-extension-x64 
+    function FTSS(){
+        // todo: simplify
+        $exludeJsLogic = true;
+        return ("10.0").toFTSS(exludeJsLogic);
+    }
 
-return '10.0'.toFTSS();
-
-??>
+?>
 ```
 
 

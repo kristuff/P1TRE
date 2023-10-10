@@ -20,6 +20,11 @@
     
 <!-- TODO OR NOT TODO ?       - W. Trollspeare -->
 
+<style>
+    :root {--color-accent-fg: rgb(162, 220, 2)!important}
+</style>
+
+
  </details>
  
 
@@ -68,6 +73,7 @@
     -   [Note-9999 *(Automated anonymous comment from trollpilot 🤖)*](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#note-9999666-automated-anonymous-comment-from-trollpilot-)
     -   [Note-9999966 *(Automated anonymous comment from trollpilot 🤖)*](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md#note-9999966-automated-anonymous-comment-from-trollpilot-) NEW🔥
 -   #REF! <!-- TODO: FIX -->
+
 <!-- TODO OR NOT TODO ?       - W. Trollspeare -->
 
 ## ACKNOWLEDGMENTS
@@ -79,7 +85,7 @@ We would like to ***kindly*** thank:
 -  the **MIT** (**Massachusetts Institute of Trolling**);
 -  the **OffTroll** company (***Offensive Trolling***) for ***🐧🐉troli/linux*** and **Troll7** company for `mtf` (**MetaTrollingFramework**);
 -  the ***inventors*** of the `😺`, `n😺`|`net😺`, `n🗺️😺`, `hash😺`, `johny` commands, `troll64` encoding, `troll-256`, `troll-512`, `troll-4096` crypting algorithms, and ***everyone else*** for creating a **man page**. 
--  our sole **member**, **author** of this manual, **`Chr1570ph3 8.`** *(PhP, HtmL, CsS, ScsS, UndefineD, BasH, ~PythoN, ~Ps1, /LinuX, /debian, /KalI /WiN, formerly DotneT)* • **kristuff** • `kr157uff` *(incognito mode)*, a **future** major player in ethical trolling who insisted on remaining anonymous;
+-  our sole **member**, **author** of this manual, **`Chr1570ph3 8.`** *(PhP, HtmL, CsS, ScsS, UndefineD, BasH, ~PythoN, ~Ps1, /LinuX, /DebiaN, /KalI /WiN, formerly DotneT)* • **kristuff** • `kr157uff` *(incognito mode)*, a **future** major player in ethical trolling who insisted on remaining anonymous;
 
     <a href="https://tryhackme.com/p/kristuff"><img src="https://tryhackme-badges.s3.amazonaws.com/kristuff.png" alt="kristuff profile on TryHackMe"></a> 
 
