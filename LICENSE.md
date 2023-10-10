@@ -29,7 +29,9 @@ the Software without restriction. **That's all**.
 
 -   **(a)** 🚫 **MUST NOT USE** the Software **ALL** *real* *unethical* Troll Actors ⛔️ *([RFT-01337-nt - Trolling activities NT *(Nuclear Threat Edition)*](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition))*.
 
--   **(b)** Someone *asking* something (`=(whois("cth", A1)` or *anything* else), ***could*** be classified as **RTA** (**R**eal **T**roll **A**ctor 😈) and indeed **APT** (**A**ctive **P**ersistent **T**roll 👺) and as a result ***could*** have to leave ⛔️ *([MITr0ll Licence](/LICENSE.md) and [RFT-01337 - Trolling activities](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition))*. 
+-   **(b)** Someone *asking* something (`=(whois("cth", A1)` (`REF!`)  or *anything* else), ***could*** be classified as **RTA** (**R**eal **T**roll **A**ctor 😈) and indeed **APT** (**A**ctive **P**ersistent **T**roll 👺) and as a result ***could*** have to leave ⛔️ *([MITr0ll Licence](/LICENSE.md) and [RFT-01337 - Trolling activities](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition))*. 
+
+>  -    `REF!`: *In any case it would be of no use because as you can see we have not succeed to completely crack the EXCEL formula.*
 
 ---------
 
