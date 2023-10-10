@@ -32,7 +32,7 @@
 -   👉 This repository/manual does **NOT** know about **REAL** **crypto** (**NO** time to **REALLY** *hide* something in images) ✅.
 -   ⚠️ **IMPORTANT** This manual may refer to *real* and *unreal* **APTs** (***Active Persistent Trolls*** 👺). 
 -   ⚠️ **IMPORTANT** This manual **refer** to **real** **APTs-nt** (***NT - Nuclear Threat Edition*** 👺☢️💀)  <!-- 😬 -->
--   ⚠️ **WARNING TO `X-TWITTER` USERS**: With the infamies ELM0 throws at his "X" every day, **it has now been established** that the current version of `X-Twitter` (v44,000,000,000) is **infected with a harmful Trollware** (Detection 1337/64 according to TotalTrolling). **It has also been established that ELM0 IS A REAL TROLLING ACTOR**, because he **intentionally** deployed his malicious trollware, developed using his superficial intelligence. **ELMO** is now known as `👺APT003` and software **X-Twitter** `👺S0001` in P1TRE🤡 TATTT&&KB matrix. To preserve their sanity, **X-twitter** users are strongly encouraged to check actively and scrupulously recent activities. 
+-   ⚠️ **WARNING TO `X-TWITTER` USERS**: With the infamies ELM0 throws at his "X" every day, **it has now been established** that the current version of `X-Twitter` (v44,000,000,000) is **infected with a harmful Trollware** (Detection 1337/64 according to TotalTrolling). **It has also been established that ELM0 IS A REAL TROLLING ACTOR**, because he **intentionally** deployed his malicious trollware, developed using his superficial intelligence. **ELM0** is now known as `👺APT003` and software **X-Twitter** `👺S0001` in the P1TRE🤡 TATTT&&KB matrix. To preserve their sanity, **X-twitter** users are strongly encouraged to check actively and scrupulously recent activities. 
 -   ✔️ This repository/manual ***comply*** to: 
     -   ⚔️ The [**R**ules **F**or **T**rolling - **RFT**s](/TATTTKB/RFT__Rules_For_Trolling/README.md) compiled as of January 1, 1970;
     -   ⚖️ The [**R**esponsible **T**rolls **D**isclosure Act](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md).
@@ -47,7 +47,7 @@
 ## CONTENT
 
 -   [P1TRE🤡 TATTT&&KB (**T**roll **A**dversary **T**rolling **T**actics and **T**echniques **K**nowledge **B**ase ) PE format v5.0](/TATTTKB/README.md?todo=true)   
-    -   [P1TRE🤡 Ethical Trolling 101](/TATTTKB/101-Ethical-Trolling-101.docx/README.md)  NEW🔥  
+    -   [P1TRE🤡 Ethical Trolling 101](/TATTTKB/101-Ethical-Trolling-101.docx/README.md)  NEW🔥🌿  
     -   [P1TRE🤡 TACS🪅 (Troll Actor Color System) ](/TATTTKB/TACS__Troll_Actor_Color_System/README.md) NEW🔥
     -   [P1TRE🤡 TATTT&&KB APT (Active Persistent Trolls) Excel Database](/TATTTKB/APT-Active_Persistent_Trolls/README.md)
     -   [P1TRE🤡 TATTT&&KB TTT (Trolls Trolling Techniques) Excel Database](/TATTTKB/APT-Active_Persistent_Trolls/README.md)

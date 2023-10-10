@@ -16,12 +16,12 @@
 
 Cell | Color             | Formula               | Ethical??         | Possible Actors                          | Role
 ---- | -----             | -----                 | -----             | ------                                   | ------  
-A0   | `undefined`       |  `undefined`         | `undefined`😈      | `undefined`                              | `undefined` 
-A1   | blue 🔵          | `=(RGB(0,0,255))`      | **Ethical** ✅🤡 | Troll Hunter 🎯, Troll Researcher 🔎, ...           | **Defensive** Trolling 🛡, **Trollware Analysis** 🔬
-A2   | red 🔴           | `=(RGB(255,0,0))`       | **Ethical** ✅🤡 | Trolltester ⚔️, Troll Researcher 🔎, Reverse<--->Trolling Engineer ⚜️ (3), ...        | **Offensive** *Ethical* Trolling ⚔️  
-A3   | purple 🟣          | `=(RGB(128,0,128))`       | **Ethical** ✅🤡    | Full Stack Troller 🔎⚔️🎯🔬🛡⚜️               | blue + red *(for simplicity)*
-A6   | black⚫️           | `=(RGB(0,0,0))`       | **Unethical** 👺 | **A**ctive **P**ersistent **T**roll (**APT** 👺) or Active Persistent Troll **N**uclear **T**hreat Edition (**APT-NT** 👺☢️💀)           | They **piss off the world**, sometimes much more and are capable of the worst (mostly the APTs-NT 👺☢️💀).
-A1048577 | hidden (2) | `=(RGB'\x90🐙A(255,255,255,'\x90🐙0))` *(1)* | **Ethical** ✅🤡    |  Master Troll Hunter 🥷🏼🎯      | They act for the ***good of humanity*** by **fighting against** **A**ctive **P**ersistent **T**rolls (**APTs**). 
+`A0`   | `undefined`       |  `undefined`         | `undefined`😈      | `undefined`                              | `undefined` 
+`A1`   | blue 🔵          | `=(RGB(0,0,255))`      | **Ethical** ✅🤡 | Troll Hunter 🎯, Troll Researcher 🔎, ...           | **Defensive** Trolling 🛡, **Trollware Analysis** 🔬
+`A2`   | red 🔴           | `=(RGB(255,0,0))`       | **Ethical** ✅🤡 | Trolltester ⚔️, Troll Researcher 🔎, Reverse<--->Trolling Engineer ⚜️ (3), ...        | **Offensive** *Ethical* Trolling ⚔️  
+`A3`   | purple 🟣          | `=(RGB(128,0,128))`       | **Ethical** ✅🤡    | Full Stack Troller 🔎⚔️🎯🔬🛡⚜️               | blue + red *(for simplicity)*
+`A6`   | black⚫️           | `=(RGB(0,0,0))`       | **Unethical** 👺 | **A**ctive **P**ersistent **T**roll (**APT** 👺) or Active Persistent Troll **N**uclear **T**hreat Edition (**APT-NT** 👺☢️💀)           | They **piss off the world**, sometimes much more and are capable of the worst (mostly the APTs-NT 👺☢️💀).
+`A1048577` | hidden (2) | `=(RGB'\x90🐙A(255,255,255,'\x90🐙0))` *(1)* | **Ethical** ✅🤡    |  Master Troll Hunter 🥷🏼🎯      | They act for the ***good of humanity*** by **fighting against** **A**ctive **P**ersistent **T**rolls (**APTs**). 
 
 -  **(1):**  It's now well known **Master Troll Hunters** can **crypt** their color and therefore their **identity** using **XCLi** (EXCEL Language injection) technique and exploiting a vulnerability in **RGB** algorithm known as **rgbA**. It's **impossible** to decrypt and therefore **to know their identity**. **Please don't ask. Thanks**.
 -   **(2):**  *Could* be seen as ` `, `#REF!` or `\x90pwn1d!🐙`
@@ -41,9 +41,6 @@ A1048577 | hidden (2) | `=(RGB'\x90🐙A(255,255,255,'\x90🐙0))` *(1)* | **Eth
   | troll256 -d --secure-password="infected!"  \
   | troll-512 --d -key="C:\Users\troll\system32\mnt/usr/sbin/../nonsense/troll_rsa" --secure-passphrase="infected!1" \
   | troll64 -d --format=md 
-
-
-
 
 # ------------
 # / TOP SECRET 
