@@ -21,6 +21,7 @@
 <!-- TODO OR NOT TODO ?       - W. Trollspeare -->
 
 <style>
+    a {color: var(--fgColor-accent, rgb(162, 220, 2)!important);}
     :root {--color-accent-fg: rgb(162, 220, 2)!important}
 </style>
 
