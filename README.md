@@ -17,7 +17,7 @@
 ![P1TRE Official logo: trollina!1337!!! 'OR 1=1 --\x90\x90\x90\x90\x90\x90;${jd1://f0ll0wed u} Local Trollato #REF!](/assets/logo.CLEAN.png)
 
 <!-- 😬 T0D0: FIX EXCEL DATABASE -->
-
+    
 <!-- TODO OR NOT TODO ?       - W. Trollspeare -->
 
  </details>
@@ -52,6 +52,7 @@
 -   [FTE (**F**amous **T**rolls Exposures)](/TATTTKB/FTE__Famous_Trolls_Exposures/Database.XLS/README.md)
     -   [Compiled FTEs (**F**amous **T**rolls Exposures) Excel Database](/TATTTKB/FTE__Famous_Trolls_Exposures/Database.XLS/README.md) *compiled as of January 1, 1970* <!-- 😬 -->
     -   [Technical Analysis of recent FTEs](/TATTTKB/FTE__Famous_Trolls_Exposures/Technical_analysis/README.md) 
+    -   [FTSS *(Famous Trolls Scoring System)* EXCEL formula ***revealed***](/TATTTKB/FTSS__Famous_Trolls_Exposures_Scoring_System_EXCEL_FORMULAS/README.md)
 -   [RFTs (**R**ules **F**or **T**rolling)](/TATTTKB/RFT__Rules_For_Trolling/README.md) *compiled as of January 1, 1970*  <!-- 😬 -->
     -   [RFT-00001 - Common sense](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense)
     -   [RFT-00021 - FTP Protocol (Full Trolling Protocol)](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00021---ftp-protocol-full-trolling-protocol-u1-rev21)

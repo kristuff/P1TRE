@@ -112,9 +112,10 @@ From: @trollpilot
 To: @trollpilot
 ```
 
-@trollpilot has been warned by @trollpilot
+⚠️ @trollpilot has been warned by @trollpilot
+
 ```
-❌ ERROR: SelfTrollException (File: C:\Users\troll\OneTroll\troll.xls?line=troll)
+❌ ERROR: SelfTrollingException (File: C:\Users\troll\OneTroll\troll.xls?line=troll&cell=A1337)
 ```
 
 
@@ -127,7 +128,7 @@ To: @trollpilot
 # ------------
 
 😺 "C:\Users\troll\system32\mnt/usr/sbin/../nonsense/RTDA.xls.pdf copy(2)" \
-  | EXCEL.exe pwn --bullshit="bullseet1" \
+  | EXCEL.exe -pwn --bullsheet="bullsheet1" \
   | troll-512 --d -key="C:\Users\troll\system32\mnt/usr/sbin/../nonsense/rsa_troll" --secure-passphrase="infected!1" \
   | troll256 -d --secure-password="infected!"  \
   | troll64 -d --format=md 
