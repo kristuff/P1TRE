@@ -2,7 +2,7 @@
 
 ## FORMULA USAGE
 
-**Note**: You must select `A1` cell to make it working on my machine.
+**Note**: You must select `A1` cell to make it working on *my* machine.
 
 ```EXCEL5
 `=(FTSS( FTE-ID ))`
@@ -13,7 +13,7 @@
 Basic examples:
 
 -   `=(FTSS(FTE-2023-99999))` # 10.0
--   `=(FTSS(FTE-2023-99999))` # 10.0
+-   `=(FTSS(FTE-*))` # 10.0
 
 This works the same as:
 
@@ -29,8 +29,10 @@ This works the same as:
 
 #  d:// s://   --> for u :)  
 #   
-#  (tested in real life) 
-#   =(CVSS(CVE-*curl --related --include-nonsense="TRUE|1")) 
+#  BE CARREFUL (tested in real life and it works!!) 
+#
+#   =(CVSS(CVE-*curl --related --include-nonsense=1)) 
+# 
 #   ~ 10.0
 
 
