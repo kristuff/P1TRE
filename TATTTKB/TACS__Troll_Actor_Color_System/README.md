@@ -1,6 +1,6 @@
 # P1TRE🤡 TACS🪅 (Troll Actor Color System) 🪅
 
-## IMPORTANT ⚠️ 
+## ⚠️ IMPORTANT ⚠️ 
 
 -   **Colors** here refer to **colors** (blue, yellow, red, black, white, green, purple, ...). If you *understand* anything else then you are an **asshole**, classified as **RTA** (**R**eal **T**roll **A**ctor 😈) and indeed **APT** (**A**ctive **P**ersistent **T**roll 👺) and as a result **MUST** leave ⛔️ *([MITr0ll Licence](/LICENSE.md) and [RFT-01337 - Trolling activities](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition))*.
 -   It's a **simplified** version. In real life it's **more complex** and colors are **subjective**.
