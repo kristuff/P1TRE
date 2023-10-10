@@ -45,7 +45,7 @@ the Software without restriction. **That's all**.
 > - *✅ Secured by BlueScreen (`C:\Users\troll\OneTroll\troll.xls`)*
 > - *🤖 Stolen again by BlueScreen TrollPilot, just in case*
 >  
-> **P1TRE TATTT&&KB ~ Ethical Trolling Manual (*e™*)** | (*i*)PE Format v5.0  *(Irreversible Portable Excel5.0 Format © 1995 BlueScreen 🪟)* | P1TRE🤡 is a **registered trollmark** of #REF! Corporation | Copyright © 2023 #REF! Corporation && kristuff | All rights reserved | [Mitr0ll Licence v13.37](/LICENSE.md)
+> **P1TRE TATTT&&KB ~ Ethical Trolling Manual** | (*i*)PE Format v5.0  *(Irreversible Portable Excel5.0 Format © 1995 BlueScreen 🪟)* | P1TRE🤡 is a **registered trollmark** of #REF! Corporation | Copyright © 2023 #REF! Corporation && kristuff | All rights reserved | [Mitr0ll Licence v13.37](/LICENSE.md)
 > 
 > > **P1TRE🤡** *Footer* `3+✅🔒` *v13.37*  is released under the **[MITr0ll](/LICENSE.md) Licence** *v13.37*  
 > > > 💡 Idea for **P1TRE🤡** *Footer* `3+✅🔒` *v13.37* inside **P1TRE🤡** *Footer* `3+✅🔒` *v13.37* is released under the **[MITr0ll](/LICENSE.md) Licence** *v13.37*  

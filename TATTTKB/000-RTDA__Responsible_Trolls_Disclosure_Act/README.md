@@ -150,5 +150,5 @@ TODO: remove/hide in public repo / use .troll.md trolling technique
 > - *✅ Secured by BlueScreen (`C:\Users\troll\OneTroll\troll.xls`)*
 > - *🤖 Stolen again by BlueScreen TrollPilot, just in case*
 >  
-> **P1TRE TATTT&&KB ~ Ethical Trolling Manual (*e™*)** | (*i*)PE Format v5.0  *(Irreversible Portable Excel5.0 Format © 1995 BlueScreen 🪟)* | P1TRE🤡 is a **registered trollmark** of #REF! Corporation | Copyright © 2023 #REF! Corporation && kristuff | All rights reserved | [Mitr0ll Licence v13.37](/LICENSE.md)
+> **P1TRE TATTT&&KB ~ Ethical Trolling Manual** | (*i*)PE Format v5.0  *(Irreversible Portable Excel5.0 Format © 1995 BlueScreen 🪟)* | P1TRE🤡 is a **registered trollmark** of #REF! Corporation | Copyright © 2023 #REF! Corporation && kristuff | All rights reserved | [Mitr0ll Licence v13.37](/LICENSE.md)
 
