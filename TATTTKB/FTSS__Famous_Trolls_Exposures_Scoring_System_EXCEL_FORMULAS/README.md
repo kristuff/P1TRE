@@ -10,9 +10,14 @@
 
 ## EXAMPLES
 
+Basic examples:
+
 -   `=(FTSS(FTE-2023-99999))` # 10.0
 -   `=(FTSS(FTE-2023-99999))` # 10.0
--   `=(FTSS(CVE-*curl))` # 10.0
+
+This works the same as:
+
+-   `=(CVSS(CVE-*curl))` # 10.0
 
 
 ## SOURCE CODE
@@ -22,10 +27,11 @@
 # TOP SECRET /
 # ------------
 
-#   d:// s://   --> for u :)  
+#  d:// s://   --> for u :)  
 #   
+#  (tested in real life) 
 #   =(CVSS(CVE-*curl --related --include-nonsense="TRUE|1")) 
-#   ~ 10.0 (tested in real life) 
+#   ~ 10.0
 
 
 <??php10EXCEL5.js-extension-x64 
