@@ -14,7 +14,7 @@
 
 <style>a {color: var(--fgColor-accent, rgb(162, 220, 2)!important);}:root {--color-accent-fg: rgb(162, 220, 2)!important}</style><!-- // 😬 -->
 
-![P1TRE Official logo: trollina!1337!!! 'OR 1=1 --\x90\x90\x90\x90\x90\x90;${jd1://f0ll0wed u} Local Trollato #REF!](/assets/logo.CLEAN.png)
+![P1TRE Official logo: trollina!1337!!! 'OR 1=1 --\x90\x90\x90\x90\x90\x90;${jd1://f0ll0wed u} Local Trollato #REF!](/assets/logo-new.jpg)
 
 <!-- 😬 T0D0: FIX EXCEL DATABASE -->
     
@@ -86,14 +86,14 @@ We would like to ***kindly*** thank:
 -  our sole **member**, **author** of this manual, **`Chr1570ph3 8.`** *(PhP, HtmL, CsS, ScsS, UndefineD, BasH, ~PythoN, ~Ps1, /LinuX, /DebiaN, /KalI /WiN, formerly DotneT)* • **kristuff** • `kr157uff` *(incognito mode)*, a **future**  (`Eternal Blue` eternal newbie 🌿)
 major player in ethical trolling who insisted on remaining anonymous;
 
-
     <a href="https://tryhackme.com/p/kristuff"><img src="https://tryhackme-badges.s3.amazonaws.com/kristuff.png" alt="kristuff profile on TryHackMe"></a> 
 
     ```bash
     # **Pseudo** code 
-    while(true) try &2>/dev/prod
+    while(true) learn && try &2>/dev/null
     ```
 
+    > Point of view: I really think being myself a newbie. More I learn, more I understand that I am a newbie. I'm ranked higher than some experts THM. Am I better than them? Obviously no. 
 
 ## Footer v13.37
 
