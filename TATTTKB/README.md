@@ -74,7 +74,7 @@
 
 -   ⚠️ **IMPORTANT** This manual **refer** to **real** **APTs-nt** (***Active Persistent Trolls NT - Nuclear Threat Edition*** 👺☢️💀) 
 
--   ✔️ This repository/manual ***comply*** to: 
+-   ✔️ This repository/manual *should* ***comply*** to: 
     -   ⚔️ The [**R**ules **F**or **T**rolling - **RFT**s](/TATTTKB/RFT__Rules_For_Trolling/README.md) compiled as of January 1, 1970;
     -   ⚖️ The [**R**esponsible **T**rolls **D**isclosure Act](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md).
 
@@ -141,11 +141,11 @@
 
 -   🔐 This document has been uploaded using the *secure* **FTP** protocol, guaranteeing its **authenticity**, see [*RFT-00021 - FTP (Full Trolling Protocol)*](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00021---ftp-protocol-full-trolling-protocol-u1-rev21).
 
--   💭 This project was first imagined as a **Capture The Troll** (**CTT**). But it's author is still stuck on `tr00l.txt` *(in case, he found answer for `.troll.txt` on a writeup, but cant' find it)*. 
+-   💭 This project was first imagined as a **Capture The Troll** (**CTT**). But it's author himslef cannot retreives all the trolls he placed here.
 
-    > *“Life is one big evolving CTT”* - *@lisaUK* on Twitter: 
-
-     `-->` 💯 (**Note**: Twitter is now known as *“`X`”* or *“`Something went wrong...`”*) 
+    > *“Life is one big evolving CTT”* - *x* on *x*(`x`) `-->` 💯 
+     
+    **Note** `x`: Remember, *“`X`”* (or *“`Something went wrong...`”*) was previously known as "Twitter" and it contained less misinformation.
      
 -   ⚖️ Because we are in fact the *author*, we are publishing a **copy** of the [Responsible Trolls Disclosure Act](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md) here. It does **not** replace the official version`*`, which alone is **authentic**. 
 

@@ -33,13 +33,18 @@
 -   ⚠️ **IMPORTANT** This manual may refer to *real* and *unreal* **APTs** (***Active Persistent Trolls*** 👺). 
 -   ⚠️ **IMPORTANT** This manual **refer** to **real** **APTs-nt** (***NT - Nuclear Threat Edition*** 👺☢️💀)  <!-- 😬 -->
 -   ⚠️ **WARNING TO `X-TWITTER` USERS**: With the infamies ELM0 throws at his "X" every day, **it has now been established** that the current version of `X-Twitter` (v44,000,000,000) is **infected with a harmful Trollware** (Detection 1337/64 according to TotalTrolling). **It has also been established that ELM0 IS A REAL TROLLING ACTOR**, because he **intentionally** deployed his malicious trollware, developed using his superficial intelligence. **ELM0** is now known as `👺APT003` and software **X-Twitter** `👺S0001` in the P1TRE🤡 TATTT&&KB matrix. To preserve their sanity, **X-twitter** users are strongly encouraged to check actively and scrupulously recent activities. 
--   ✔️ This repository/manual ***comply*** to: 
+-   ✔️ This repository/manual *should* ***comply*** to: 
     -   ⚔️ The [**R**ules **F**or **T**rolling - **RFT**s](/TATTTKB/RFT__Rules_For_Trolling/README.md) compiled as of January 1, 1970;
     -   ⚖️ The [**R**esponsible **T**rolls **D**isclosure Act](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md).
 -   ⚖️ **IMPORTANT**: Activities that are **not legal** are **illegal**. Activities done **illegally** are **illegal**. **Illegal** activities are **illegal** *([RFT-00001 - Common sense  .§1](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense))*. **Illegal** activities, even with ***good*** intentions, are **illegal** *([RFT-00001 - Common sense  .§2](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense))*. **Illegal** activities, all the more with ***bad*** intentions, are **illegal** *([RFT-00001 - Common sense  .§3](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense))*. ***Don't*** do that 
 -   🔐 This document has been uploaded using the *secure* **FTP** protocol, guaranteeing its **authenticity**, see [*RFT-00021 - FTP (Full Trolling Protocol)*](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00021---ftp-protocol-full-trolling-protocol-u1-rev21).
 -   ⚖️ Because we are in fact the *author*, we are publishing a **copy** of the [Responsible Trolls Disclosure Act](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md) here. It does **not** replace the official version`*`, which alone is **authentic**. 
     > `*` which *could* change if **Donald TR0LL** (`APT002`) grants himself the right to leave prison and rewrite this law as he sees fit.
+-   💭 This project was first imagined as a **Capture The Troll** (**CTT**). But it's author himslef cannot retreives all the trolls he placed here.
+
+    > *“Life is one big evolving CTT”* - *x* on *x*(`x`) `-->` 💯 
+     
+    **Note** `x`: Remember, *“`X`”* (or *“`Something went wrong...`”*) was previously known as "Twitter" and it contained less misinformation.
 -   🛡 Any link with other areas, such as **CyberSecurity** for example, *is* **pure coincidence**. Besides, if it doesn't exactly fit, it *may* or *may not* be **intentional**.
 -   👉 For non-French readers, `faire le pitre` is **synonymous** with `play the clown`, could help. 🇫🇷
 -   ⚠️ **IMPORTANT** You **MUST** *understand* and be ok with ***all*** of this otherwise **go away** *(see [Mitr0ll Licence v13.37](/LICENSE.md))*. 
@@ -93,7 +98,7 @@ major player in ethical trolling who insisted on remaining anonymous;
     while(true) learn && try &2>/dev/null
     ```
 
-    > Point of view: I really think being myself a newbie. More I learn, more I understand that I am a newbie. I'm ranked higher than some experts THM. Am I better than them? Obviously no. 
+    > Point of view: I really think being myself a newbie. More I learn, more I understand that I am a newbie. I'm ranked higher than some experts on THM. Am I better than them? Obviously no. 
 
 ## Footer v13.37
 
