@@ -88,7 +88,7 @@ We would like to ***kindly*** thank:
 -  the **MIT** (**Massachusetts Institute of Trolling**);
 -  the **OffTroll** company (***Offensive Trolling***) for ***🐧🐉troli/linux*** and **Troll7** company for `mtf` (**MetaTrollingFramework**);
 -  the ***inventors*** of the `😺`, `n😺`|`net😺`, `n🗺️😺`, `hash😺`, `johny` commands, `troll64` encoding, `troll-256`, `troll-512`, `troll-4096` crypting algorithms, and ***everyone else*** for creating a **man page**. 
--  our sole **member**, **author** of this manual, **`Chr1570ph3 8.`** *(PhP, HtmL, CsS, ScsS, UndefineD, BasH, ~PythoN, ~Ps1, /LinuX, /DebiaN, /KalI /WiN, formerly DotneT)* • **kristuff** • `kr157uff` *(incognito mode)*, a **future**  (`Eternal Blue` eternal newbie 🌿)
+-  our sole **member**, **author** of this manual, **`Chr1570ph3 8.`** *(PhP, HtmL, CsS, ScsS, UndefineD, BasH, (~ PythoN,  ~Ps1), /LinuX, /DebiaN, /KalI /WiN, formerly DotneT)* • **kristuff** • `kr157uff` *(incognito mode)*, a **future** (`eternalblue` eternal newbie 🌿) **or not**
 major player in ethical trolling who insisted on remaining anonymous;
 
     <a href="https://tryhackme.com/p/kristuff"><img src="https://tryhackme-badges.s3.amazonaws.com/kristuff.png" alt="kristuff profile on TryHackMe"></a> 
