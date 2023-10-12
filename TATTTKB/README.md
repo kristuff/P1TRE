@@ -141,7 +141,7 @@
 
 -   🔐 This document has been uploaded using the *secure* **FTP** protocol, guaranteeing its **authenticity**, see [*RFT-00021 - FTP (Full Trolling Protocol)*](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00021---ftp-protocol-full-trolling-protocol-u1-rev21).
 
--   💭 This project was first imagined as a **Capture The Troll** (**CTT**). But it's author himslef cannot retreives all the trolls he placed here.
+-   💭 This project was first imagined as a **Capture The Troll** (**CTT**). But it's author himself cannot retrieves all the trolls be placed here.
 
     > *“Life is one big evolving CTT”* - *x* on *x*(`x`) `-->` 💯 
      
