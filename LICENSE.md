@@ -21,15 +21,15 @@ the Software without restriction. **That's all**.
 
 🪖 **The Software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement.** 
 
-💡 **Illegal** activities, even with good intentions, are **illegal** *(Reminder from [RFT-00001 - Common sense](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense))*.   
+💡 **Illegal** activities, even with good intentions, are **illegal** *(Reminder from [RFT-00001 - Common sense](/TATTTKB/010-RFT__Rules_For_Trolling/README.md#rft-00001---common-sense))*.   
 
-⛔️ **Real** Troll Actors (**RTA**) **MUST NOT USE** the Software. Real Troll Actors **MUST STOP** *([RFT-01337-nt - Trolling activities NT *(Nuclear Threat Edition)*](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition))*.
+⛔️ **Real** Troll Actors (**RTA**) **MUST NOT USE** the Software. Real Troll Actors **MUST STOP** *([RFT-01337-nt - Trolling activities NT *(Nuclear Threat Edition)*](/TATTTKB/010-RFT__Rules_For_Trolling/README.md#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition))*.
 
 🪖 **In no event** shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the Software.
 
--   **(a)** 🚫 **MUST NOT USE** the Software **ALL** *real* *unethical* Troll Actors ⛔️ *([RFT-01337-nt - Trolling activities NT *(Nuclear Threat Edition)*](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition))*.
+-   **(a)** 🚫 **MUST NOT USE** the Software **ALL** *real* *unethical* Troll Actors ⛔️ *([RFT-01337-nt - Trolling activities NT *(Nuclear Threat Edition)*](/TATTTKB/010-RFT__Rules_For_Trolling/README.md#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition))*.
 
--   **(b)** Someone *asking* something (`=(whois("cth", A1)` (`REF!`)  or *anything* else), ***could*** be classified as **RTA** (**R**eal **T**roll **A**ctor 😈) and indeed **APT** (**A**ctive **P**ersistent **T**roll 👺) and as a result ***could*** have to leave ⛔️ *([MITr0ll Licence](/LICENSE.md) and [RFT-01337 - Trolling activities](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition))*. 
+-   **(b)** Someone *asking* something (`=(whois("cth", A1)` (`REF!`)  or *anything* else), ***could*** be classified as **RTA** (**R**eal **T**roll **A**ctor 😈) and indeed **APT** (**A**ctive **P**ersistent **T**roll 👺) and as a result ***could*** have to leave ⛔️ *([MITr0ll Licence](/LICENSE.md) and [RFT-01337 - Trolling activities](/TATTTKB/010-RFT__Rules_For_Trolling/README.md#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition))*. 
 
 >  -    `REF!`: *In any case it would be of no use because as you can see we have not succeed to completely crack the EXCEL formula.*
 

@@ -1,10 +1,10 @@
 # P1TRE🤡 TATTT&&KB ~ *⚔️🛡 Ethical Trolling Manual* 
 
-> TATTT&&KB ~ Ethical Trolling Manual (e™) • (*i*)PE Format v5.0  *(Irreversible Portable Excel5.0 Format © 1995 BlueScreen)* • P1TRE🤡 is a registered trollmark of #REF! Corporation • Copyright © 2023 #REF! Corporation && kristuff
+> TATTT&&KB ~ Ethical Trolling Manual • (*i*)PE Format v5.0  *(Irreversible Portable Excel5.0 Format © 1995 BlueScreen)* • P1TRE🤡 is a registered trollmark of #REF! Corporation • Copyright © 2023 #REF! Corporation && kristuff
 
 **TATTT&&KB**, **T**roll **A**dversary **T**rolling **T**actics and **T**echniques **K**nowledge **B**ase is a globally-accessible knowledge base of troll adversary trolling tactics and techniques based on real/unreal-world observations (*full stack world*). 
 
-[!\[P1TRE Official LOGO: trollina!1337!!! 'OR 1=1 --\x90;${jd1:} Local Trollato #REF!](/README.md#🛡-P1TRE🤡-tatttkb--ethical-trolling-manual-e™) *(TODO: fix trolled path)* 🔥
+[!\[P1TRE Official LOGO: trollina!1337!!! 'OR 1=1 --\x90;${jd1:} Local Trollato #REF!](/README.md#🛡-P1TRE🤡-tatttkb--ethical-trolling-manual-e™) *(TODO: fix)* 🔥
 
  <details>
     <summary>🛡 LOGO (FIXED)</summary>
@@ -24,14 +24,14 @@
 -   [P1TRE🤡 TATTT&&KB (**T**roll **A**dversary **T**rolling **T**actics and **T**echniques **K**nowledge **B**ase ) PE format v5.0](/TATTTKB/README.md?todo=true)   
     -   [P1TRE🤡 Ethical Trolling 101](/TATTTKB/101-Ethical-Trolling-101.docx/README.md) NEW🔥🌿   
     -   [P1TRE🤡 TACS🪅 (Troll Actor Color System)](/TATTTKB/TACS__Troll_Actor_Color_System/README.md) NEW🔥
-    -   [P1TRE🤡 TATTT&&KB APT (Active Persistent Trolls) Excel Database](/TATTTKB/APT-Active_Persistent_Trolls/README.md)
+    -   [P1TRE🤡 TATTT&&KB APT (Awful Persistent Trolls) Excel Database](/TATTTKB/APT-Active_Persistent_Trolls/README.md)
     -   [P1TRE🤡 TATTT&&KB TTT (Trolls Trolling Techniques) Excel Database](/TATTTKB/APT-Active_Persistent_Trolls/README.md)
     -   [P1TRE🤡 TATTT&&KB TTS (Trolls Trolling Softwares) Excel Database](/TATTTKB/APT-Active_Persistent_Trolls/README.md)
--   [RFTs (**R**ules **F**or **T**rolling)](/TATTTKB/RFT__Rules_For_Trolling/README.md) *compiled as of January 1, 1970* 
-    -   [RFT-00001 - Common sense](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense)
-    -   [RFT-00021 - FTP Protocol (Full Trolling Protocol)](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00021---ftp-protocol-full-trolling-protocol-u1-rev21)
-    -   [RFT-00053 - TNS Protocol (Troll Name System Protocol)](/TATTTKB/RFT__Rules_For_Trolling/README.md#r#rft-00053---tns-protocol-troll-name-system-protocol)
-    -   [RFT-01337-nt - Trolling activities NT *(Nuclear Threat Edition)*](/TATTTKB/RFT__Rules_For_Trolling/README.md#r#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition)  NEW🔥
+-   [RFTs (**R**ules **F**or **T**rolling)](/TATTTKB/010-RFT__Rules_For_Trolling/README.md) *compiled as of January 1, 1970* 
+    -   [RFT-00001 - Common sense](/TATTTKB/010-RFT__Rules_For_Trolling/README.md#rft-00001---common-sense)
+    -   [RFT-00021 - FTP Protocol (Full Trolling Protocol)](/TATTTKB/010-RFT__Rules_For_Trolling/README.md#rft-00021---ftp-protocol-full-trolling-protocol-u1-rev21)
+    -   [RFT-00053 - TNS Protocol (Troll Name System Protocol)](/TATTTKB/010-RFT__Rules_For_Trolling/README.md#r#rft-00053---tns-protocol-troll-name-system-protocol)
+    -   [RFT-01337-nt - Trolling activities NT *(Nuclear Threat Edition)*](/TATTTKB/010-RFT__Rules_For_Trolling/README.md#r#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition)  NEW🔥
     -   #REF!
 -   [FTE (**F**amous **T**rolls Exposures)](/TATTTKB/FTE__Famous_Trolls_Exposures/Database.XLS/README.md)
     -   [Compiled FTEs (**F**amous **T**rolls Exposures) Excel Database](/TATTTKB/FTE__Famous_Trolls_Exposures/Database.XLS/README.md) *compiled as of January 1, 1970* <!-- 😬 -->
@@ -50,11 +50,11 @@
 
 ## DISCLAIMER
 
--   ⚠️ **IMPORTANT** This repository/manual is *full* of mischief/satire, but **NOT MALICIOUS** ✅ (*or* it so was **unintentional** 😬)
+-   ⚠️ **IMPORTANT** This repository/manual is *full* of mischief/satire/sarcasm, but **NOT MALICIOUS** ✅. 
+    -   👉 It's a **PARODY**. With some obvious exceptions, for anyone who recognizes each other, it's generally a *friendly* wink. You will understand or not. 
+    -   👉 It *may* also contain *moral* lessons, of which author *try* to respect/apply principles. He **does not** consider himself above others.
 
--   👉 This repository/manual does **NOT** know about **REAL** **crypto** (**NO** time to **REALLY** *hide* something in images..) ✅.
-
--   ⛔️ **IMPORTANT**: Activities that are **not legal** are **illegal**. Activities done **illegally** are **illegal**. **Illegal** activities are **illegal** *([RFT-00001 - Common sense  .§1](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense))*. **Illegal** activities, even with ***good*** intentions, are **illegal** *([RFT-00001 - Common sense  .§2](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense))*. **Illegal** activities, all the more with ***bad*** intentions, are **illegal** *([RFT-00001 - Common sense  .§3](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense))*. ***Don't*** do that 🚨🕵️👮👮‍♀️👮🏿‍♂️🚓⚖️
+-   ⛔️ **IMPORTANT**: Activities that are **not legal** are **illegal**. Activities done **illegally** are **illegal**. **Illegal** activities are **illegal** *([RFT-00001 - Common sense  .§1](/TATTTKB/010-RFT__Rules_For_Trolling/README.md#rft-00001---common-sense))*. **Illegal** activities, even with ***good*** intentions, are **illegal** *([RFT-00001 - Common sense  .§2](/TATTTKB/010-RFT__Rules_For_Trolling/README.md#rft-00001---common-sense))*. **Illegal** activities, all the more with ***bad*** intentions, are **illegal** *([RFT-00001 - Common sense  .§3](/TATTTKB/010-RFT__Rules_For_Trolling/README.md#rft-00001---common-sense))*. ***Don't*** do that 🚨🕵️👮👮‍♀️👮🏿‍♂️🚓⚖️
 
     <details>
     <summary>⚔️ Click to see code (tested on 🐉troli/🐧linux)</summary>
@@ -70,12 +70,12 @@
 
 -   ⚠️ **WARNING TO `X-TWITTER` USERS**: With the infamies ELM0 throws at his "X" every day, **it has now been established** that the current version of `X-Twitter` (v44,000,000,000) is **infected with a harmful Trollware** (Detection 1337/64 according to TotalTrolling). **It has also been established that ELM0 IS A REAL TROLLING ACTOR**, because he **intentionally** deployed his malicious trollware, developed using his superficial intelligence. **ELM0** is now known as `👺APT003` and software **X-Twitter** `👺S0001` in the P1TRE🤡 TATTT&&KB matrix. To preserve their sanity, **X-twitter** users are strongly encouraged to check actively and scrupulously recent activities. 
 
--   ⚠️ **IMPORTANT** This manual may refer to *real* and *unreal* **APTs** (***Active Persistent Trolls*** 👺).
+-   ⚠️ **IMPORTANT** This manual may refer to *real* and *unreal* **APTs** (***Awful Persistent Trolls*** 👺).
 
--   ⚠️ **IMPORTANT** This manual **refer** to **real** **APTs-nt** (***Active Persistent Trolls NT - Nuclear Threat Edition*** 👺☢️💀) 
+-   ⚠️ **IMPORTANT** This manual **refer** to **real** **APTs-nt** (***Awful Persistent Trolls NT - Nuclear Threat Edition*** 👺☢️💀) 
 
 -   ✔️ This repository/manual *should* ***comply*** to: 
-    -   ⚔️ The [**R**ules **F**or **T**rolling - **RFT**s](/TATTTKB/RFT__Rules_For_Trolling/README.md) compiled as of January 1, 1970;
+    -   ⚔️ The [**R**ules **F**or **T**rolling - **RFT**s](/TATTTKB/010-RFT__Rules_For_Trolling/README.md) compiled as of January 1, 1970;
     -   ⚖️ The [**R**esponsible **T**rolls **D**isclosure Act](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md).
 
 -   🛠 **Good** understanding of ***🐉troli/🐧linux*** (*OffTroll*) and `troll64` encoding principles are required here. Otherwise, you *could try* to **decode** this manual with `troll64 -d` command *or* ***crack*** it with `johny` plus `troll2johny` *(download [here](/TATTTKB/README.md#disclaimer))*. ***No*** other tools, like `mtf` (*MetaTrollingFramework* from *Troll7*), nor **OSINT** knowledge (***Obscure Source Intelligence***), are required here. 
@@ -137,9 +137,9 @@
 
     </details>
    
--   🧩 To ***fully*** understand information contained here, the reader must first have a perfect understanding of [*RFT-00001 - Common sense*](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00001---common-sense) and [*RFT-01337 - Trolling activities*](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition), which themselves require a good understanding of the TACS🪅 color system ([**Troll Actor Color System - TACS🪅**](/TATTTKB/TACS__Troll_Actor_Color_System/README.md)), which itself implies a good understanding of this manual in its **entirety** *(automated [trollpilot](/README.md) comment 🤖)*.
+-   🧩 To ***fully*** understand information contained here, the reader must first have a perfect understanding of [*RFT-00001 - Common sense*](/TATTTKB/010-RFT__Rules_For_Trolling/README.md#rft-00001---common-sense) and [*RFT-01337 - Trolling activities*](/TATTTKB/010-RFT__Rules_For_Trolling/README.md#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition), which themselves require a good understanding of the TACS🪅 color system ([**Troll Actor Color System - TACS🪅**](/TATTTKB/TACS__Troll_Actor_Color_System/README.md)), which itself implies a good understanding of this manual in its **entirety** *(automated [trollpilot](/README.md) comment 🤖)*.
 
--   🔐 This document has been uploaded using the *secure* **FTP** protocol, guaranteeing its **authenticity**, see [*RFT-00021 - FTP (Full Trolling Protocol)*](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00021---ftp-protocol-full-trolling-protocol-u1-rev21).
+-   🔐 This document has been uploaded using the *secure* **FTP** protocol, guaranteeing its **authenticity**, see [*RFT-00021 - FTP (Full Trolling Protocol)*](/TATTTKB/010-RFT__Rules_For_Trolling/README.md#rft-00021---ftp-protocol-full-trolling-protocol-u1-rev21).
 
 -   💭 This project was first imagined as a **Capture The Troll** (**CTT**). But it's author himself cannot retrieves all the trolls be placed here.
 
@@ -149,7 +149,7 @@
      
 -   ⚖️ Because we are in fact the *author*, we are publishing a **copy** of the [Responsible Trolls Disclosure Act](/TATTTKB/000-RTDA__Responsible_Trolls_Disclosure_Act/README.md) here. It does **not** replace the official version`*`, which alone is **authentic**. 
 
-    > `*` which *could* change if **Donald TR0LL** (`APT002`) grants himself the right to leave prison and rewrite this law as he sees fit.
+    > `*` which *could* change if **Donald TR0LL** (`APT002`) grants himself the right to leave prison and rewrite this law as he sees fit to be excluded.
 
 -   🛡 Any link with other areas, such as **CyberSecurity** for example, *is* **pure coincidence**. Besides, if it doesn't exactly fit, it *may* or *may not* be **intentional**.
 

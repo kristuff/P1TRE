@@ -15,7 +15,6 @@ This section tells you about which versions of our project are currently being s
 
 ## Reporting a Vulnerability
 
-
 This would **violate** a lot of rules. Check [legal](/LEGAL.md) and the **[MITr0ll](/LICENSE.md) Licence** *v13.37*.
 
 
@@ -23,7 +22,7 @@ This would **violate** a lot of rules. Check [legal](/LEGAL.md) and the **[MITr0
 
 ## ⚠️ Keep Myself in Security 
 
-For your security this repo **MUST** remain where it is, just in case. 0
+For your security this repo **MUST** remain where it is, just in case. 
 
 
 

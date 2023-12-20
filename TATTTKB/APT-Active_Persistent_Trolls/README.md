@@ -1,4 +1,4 @@
-# APT *(Active Persistent Trolls)*  `APT-Database.xlsx`
+# APT *(Awful Persistent Trolls)*  `APT-Database.xlsx`
 
 
 TODO (real 😬)
@@ -19,7 +19,7 @@ TODO (real 😬)
 # -------------------------------------------------
 # 🥇    APT-001 (nt) 👺☢️💀    V PUTROLL & co                
 # -------------------------------------------------
-#       APT-002  👺              D TROLL & co 
+#       APT-002  👺              Donald TROLL & co 
 # -------------------------------------------------
 #       APT-003  👺              Eltroll Mu  
 #                                               +software S001 X/elmo-server.service/Something went wrong... (owner) 

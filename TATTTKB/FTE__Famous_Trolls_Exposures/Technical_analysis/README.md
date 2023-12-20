@@ -7,7 +7,6 @@
 
 
 
-
 ## Footer v13.37
 
 > This is the ***Official*** P1TRE🤡 repository `3+✅🔒` ***(TCI/SI/BS)*** 

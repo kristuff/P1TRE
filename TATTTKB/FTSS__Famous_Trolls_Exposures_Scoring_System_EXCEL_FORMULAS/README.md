@@ -26,10 +26,9 @@ This works the same as:
 # ------------
 # TOP SECRET /
 # ------------
-
-#  d:// s://   --> for u :)  
 #   
-#  BE CARREFUL (tested in real life and it works!!) 
+#  d:// s://   
+#  tested in real life and it works!) 
 #
 #   =(CVSS(CVE-*curl --related --include-nonsense=1)) 
 # 
@@ -38,6 +37,7 @@ This works the same as:
 <? //??php10EXCEL5.js-extension-x64\x90 
 
     function FTSS(){
+
         // todo: simplify
         $exludeJsLogic = true;
         return ("10.0").toFTSS(exludeJsLogic);

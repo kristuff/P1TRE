@@ -31,7 +31,7 @@ Sec. §            |  Stated
 `§1`              | Activities that are **not legal** are **illegal**. Activities done **illegally** are **illegal**. **Illegal** activities are **illegal**. 
 `§2`              | **Illegal** activities, even with ***good*** intentions, are **illegal**.
 `§3`              | **Illegal** activities, all the more with ***bad*** intentions, are **illegal**.
-
+`§4`              | **Illegal** activities, even with ***prior*** and **explicit** permission from whose who wants you to go in jail, are **illegal**.
 
 ## Title 101. Responsible Trolls Disclosure 101
 
@@ -41,7 +41,7 @@ Sec. §             | Stated
 `§102`            | Ethical trollers **MUST** follow ***any*** Ethical Trolling Group recommendation and/or advice.
 `§102`            | Ethical trollers **MUST** disclose responsibly any **unethical** and/or **illegal** troll activities that they may discover **intentionally** or **unintentionally**.
 `§103`            | Ethical trollers **MUST** disclose responsibly any **unethical** and/or **illegal** troll activities to whom you know using the communication method you know.
-`§104`            | *See [§444](#title-101-responsible-trolls-disclosure-101)*
+`§104`            | *See [§999](#title-101-responsible-trolls-disclosure-101)*
 `§137`            | By derogation from section [§103](#title-101-responsible-trolls-disclosure-101), newbie Ethical trollers ***can***, being very careful, use others communication method as defined, now or in the future, by the **Ethical Trolling Group**.
 `§444`            | *See [§104](#title-101-responsible-trolls-disclosure-101)*
 `§999`            | *See [§444](#title-101-responsible-trolls-disclosure-101)*
@@ -61,9 +61,9 @@ From: ? (Anonymous comment from kristuff)
 To: @everyone
 ```
 
-For the purposes of section [.§137](#title-101-responsible-trolls-disclosure-101) of the [Responsible Trolls Disclosure Act](#responsible-trolls-disclosure-act-unofficial-copy-3), newbie ethical trollers *can*, being aware of [RFT-01337 - Trolling activities .§103](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition) use:
+For the purposes of section [.§137](#title-101-responsible-trolls-disclosure-101) of the [Responsible Trolls Disclosure Act](#responsible-trolls-disclosure-act-unofficial-copy-3), newbie ethical trollers *can*, being aware of [RFT-01337 - Trolling activities .§103](/TATTTKB/010-RFT__Rules_For_Trolling/README.md#rft-01337-nt---trolling-activities-nt-nuclear-threat-edition) use:
 
--   ***a)***  very **unsecure** channel communication method **FTP** (see [*RFT-00021 - FTP (Full Trolling Protocol)*](/TATTTKB/RFT__Rules_For_Trolling/README.md#rft-00021---ftp-protocol-full-trolling-protocol-u1-rev21)); 
+-   ***a)***  very **unsecure** channel communication method **FTP** (see [*RFT-00021 - FTP (Full Trolling Protocol)*](/TATTTKB/010-RFT__Rules_For_Trolling/README.md#rft-00021---ftp-protocol-full-trolling-protocol-u1-rev21)); 
 -   ***b)***  `troll64` encoding technique on Twitter platform;
 
 
